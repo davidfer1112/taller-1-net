@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/ProyectoBTaller1Net.props" />
+</Project>
